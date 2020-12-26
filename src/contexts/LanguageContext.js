@@ -1,3 +1,3 @@
-import React from 'react';
-
-export default React.createContext('english');
+import React from "react";
+// create a Context object
+export default React.createContext("english");
